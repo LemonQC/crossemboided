@@ -3,7 +3,10 @@
 Unified research archive and reproducible experimentation for cross-behavior / cross-embodiment robotic manipulation, targeting a prospective IEEE T-RO submission.
 
 ## Chat logs
-- [2026-11-06 research conversation & decisions](docs/research_log/2026-11-06_cross_behavior_research.md)
+- [2026-11-06 — exact accessible excerpts (INCOMPLETE)](docs/chat_verbatim/2026-11-06_accessible_exact_excerpt.md)
+- [2026-11-06 — structured research summary (NOT VERBATIM)](docs/research_log/2026-11-06_cross_behavior_research.md)
+
+**Archive status: INCOMPLETE.** The original full message-by-message ChatGPT conversation has not been exported to this repository. A complete verbatim transcript requires the source ChatGPT conversation export; summaries are not substitutes.
 
 ## Principles
 - Canonical archive: **LemonQC/crossemboided** (not `LemonQC/huitu`).
